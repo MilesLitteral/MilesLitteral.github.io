@@ -13,3 +13,15 @@ p{
 u{
 	text-decoration: underline;
 }
+
+.active
+{
+	border-style: dashed;
+	border-color: #05FF00;
+}
+
+.buttonClass
+{
+	z-index: 3; /* put .gold-box above .green-box and .dashed-box */
+  	background: gold;
+}
