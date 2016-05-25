@@ -1,4 +1,7 @@
-h1
-{
+h1{
 	color: #00FF00;
+}
+
+u{
+	text-decoration: underline;
 }
